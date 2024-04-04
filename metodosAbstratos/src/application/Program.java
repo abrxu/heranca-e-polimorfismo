@@ -48,6 +48,7 @@ public class Program {
 		for (Shape s : list) {
 			System.out.println(String.format("%.2f", s.area()));
 		}
+		
 
 		sc.close();
 	}
